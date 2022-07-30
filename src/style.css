@@ -19,11 +19,11 @@ body {
 }
 
 h1 {
+	margin: 50px 0;
 	font-size: 40px;
 	font-weight: 700;
 	text-align: center;
 	text-transform: uppercase;
-	margin-bottom: 50px;
 }
 
 .section {
@@ -70,11 +70,14 @@ h1 {
 }
 
 .tabs-title {
+	margin: 20px 0;
 	font-weight: 700;
 	font-size: 20px;
 	color: rgb(31, 29, 29);
 }
 
 .tabs-desc {
+	font-size: 18px;
+	line-height: 26px;
 	color: rgb(152, 152, 236);
 }
